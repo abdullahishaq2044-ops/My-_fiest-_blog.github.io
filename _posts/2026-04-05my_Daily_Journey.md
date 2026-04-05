@@ -5,6 +5,7 @@ tags: [daily-routine, student-life, productivity, university, lifestyle]
 ---
 
 # 🌅 My Daily Journey
+![Morning](assets/WhatsApp Image 2026-04-05 at 4.56.15 PM.jpg)
 
 My daily journey begins early in the morning when I wake up and start my day with prayer. This peaceful moment helps me feel calm and focused. It gives me a sense of purpose and prepares me mentally for the day ahead. After that, I freshen up and get ready for university. I make sure everything is organized so I don’t face any problems later. Then I head towards the bus stop on time. 
 
