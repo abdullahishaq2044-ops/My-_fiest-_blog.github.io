@@ -2,6 +2,7 @@
 title: "My Daily Journey"
 date: 2026-04-05
 tags: [daily-routine, student-life, productivity, university, lifestyle]
+categories: [Blog, Personal, Student-Life]
 ---
 
 # 🌅 My Daily Journey
